@@ -1,3 +1,3 @@
 function changeText() {
-  document.getElementById('msg').textContent = '你刚刚触发了一段 JavaScript  老猪爱导管。';
+  document.getElementById('msg').textContent = '你刚刚触发了一段 JavaScript。';
 }
